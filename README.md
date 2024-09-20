@@ -32,7 +32,7 @@ A web application that provides real-time weather information based on user inpu
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
 - **Email**: yugr2005@gmail.com
-- **GitHub**: [https://github.com/yugr2005](https://github.com/your-username)
-- **LinkedIn**: [https://www.linkedin.com/in/yug-patel004/](https://twitter.com/your-twitter-handle)
+- **GitHub**: https://github.com/yugr2005
+- **LinkedIn**: https://www.linkedin.com/in/yug-patel004/
 
 I’m always open to collaboration and happy to hear any input that could improve this project!
